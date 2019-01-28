@@ -1,6 +1,7 @@
 ---
 title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
+free_preview: true
 ---
 
 ## Example coding exercise
@@ -40,3 +41,29 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 8680baadc8
+xp: 50
+```
+
+`@projector_key`
+c3c8edd14ef3e3564996c0edd15910c4
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 9c0110c3e1
+xp: 50
+```
+
+`@projector_key`
+7537fb354f51559aa9b6c8426de99414
